@@ -1,4 +1,4 @@
-module github.com/Monibuca/plugin-gateway
+module github.com/Stephen-Z/plugin-gateway
 
 go 1.13
 
